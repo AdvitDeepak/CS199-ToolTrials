@@ -1,0 +1,37 @@
+  {
+    "file_index": 976,
+    "text": "SBI Magnum Gilt Fund Direct-Dividend Quarterly Dividend is a Debt 
+             mutual fund scheme from SBI Mutual Fund. This scheme was launched 
+             on 01 Jan 2013 and is currently managed by its fund manager Dinesh 
+             Ahuja. It has an AUM of \u20b91,475.36 Crores and the latest NAV 
+             decalared is \u20b914.400 as on 18 Apr 2019 at 9:30 pm.\nSBI Magnum 
+             Gilt Fund Direct-Dividend Quarterly Dividend scheme return performance
+             in last 1 year is 6.89%, in last 3 years is 27.26% and 80.55% since 
+             scheme launch. The min. SIP amount to invest in this scheme is \u20b91000.",
+    "calculator_outputs": [
+      [
+        0.249375581741333,
+        40,
+        "Calculator(1)",
+        "1.0"
+      ],
+      [
+        0.2351360321044922,
+        38,
+        "Calculator(2014)",
+        "2014.0"
+      ],
+      [
+        0.08313179016113281,
+        115,
+        "Calculator(2013/2018-06)",
+        "-5.0"
+      ]
+    ]
+  },
+
+
+
+
+
+  
